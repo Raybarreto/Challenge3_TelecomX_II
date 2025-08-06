@@ -10,7 +10,7 @@ Este projeto tem como objetivo principal analisar os dados de clientes de uma em
 > 📌 O projeto foi desenvolvido e executado no ambiente Google Colab.
 
 ## 🌐 Fonte de Dados
-Os dados utilizados são carregados diretamente de um arquivo JSON hospedado no GitHub:
+Os dados utilizados são carregados diretamente de um arquivo CSV hospedado no GitHub:
 
 ```
 https://raw.githubusercontent.com/Raybarreto/Challenge3_TelecomX_II/refs/heads/main/dados_tratados.csv
